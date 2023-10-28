@@ -23,7 +23,7 @@ console.log(greeting("Anshika"));
  }
  console.log(cart(200,300,400,500)); // [400, 500]
 
- 
+
  //functions and objects
 
  const ob = {
